@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-SE-30-LNX",
+  "swName": "Quartus II Subscription Edition Software v3.0 Linux",
+  "swUrl": "https://fpgadownload.intel.com/outgoing/release/quartusii_30_linux.tar.gz",
+  "swExtUrl": "https://fpgadownload.intel.com/outgoing/release/quartusii_30_linux.tar.gz",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

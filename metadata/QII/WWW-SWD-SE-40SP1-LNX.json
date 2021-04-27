@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-SE-40SP1-LNX",
+  "swName": "Quartus II Subscription Edition Software v4.0 for Linux",
+  "swUrl": "https://fpgadownload.intel.com/outgoing/release/quartusii_40_linux.tar.gz",
+  "swExtUrl": "https://fpgadownload.intel.com/outgoing/release/quartusii_40_linux.tar.gz",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

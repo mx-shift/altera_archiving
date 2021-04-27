@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-ADS-120-LNX",
+  "swName": "Altera Design Suite v12.0 for Linux (Altera Installer)",
+  "swUrl": "https://download.altera.com/akdlm/software/acds/12.0/178/altera_installer/altera_installer.external.sh",
+  "swExtUrl": "https://download.altera.com/akdlm/software/acds/12.0/178/altera_installer/altera_installer.external.sh",
+  "swInstaller": true,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-MDSW-64A-90SP2-LNX",
+  "swName": "ModelSim-Altera 6.4a Starter Edition Version 9.0 SP2 for Linux",
+  "swUrl": "https://download.altera.com/akdlm/software/quartus2/90sp2/90sp2_modelsim_ase_linux.tar",
+  "swExtUrl": "https://download.altera.com/akdlm/software/quartus2/90sp2/90sp2_modelsim_ase_linux.tar",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

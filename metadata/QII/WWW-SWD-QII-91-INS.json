@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-QII-91-INS",
+  "swName": "Altera Install Script for Linux Installation v9.1",
+  "swUrl": "https://download.altera.com/software/quartus2/91/91_altera_installer.tar",
+  "swExtUrl": "https://download.altera.com/software/quartus2/91/91_altera_installer.tar",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

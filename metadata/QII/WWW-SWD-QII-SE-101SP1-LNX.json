@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-QII-SE-101SP1-LNX",
+  "swName": "Quartus II Subscription Edition Version 10.1 Service Pack 1 for Linux",
+  "swUrl": "https://download.altera.com/akdlm/software/acds/10.1sp1/197/service_pack/10.1sp1_quartus_linux.sh",
+  "swExtUrl": "https://download.altera.com/akdlm/software/acds/10.1sp1/197/service_pack/10.1sp1_quartus_linux.sh",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

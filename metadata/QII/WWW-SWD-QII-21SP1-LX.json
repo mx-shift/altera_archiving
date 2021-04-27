@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-QII-21SP1-LX",
+  "swName": "Quartus II Software Version 2.1 Service Pack 1 for Linux",
+  "swUrl": "https://fpgadownload.intel.com/outgoing/download/quartusii_21_sp1_linux.tar",
+  "swExtUrl": "https://fpgadownload.intel.com/outgoing/download/quartusii_21_sp1_linux.tar",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

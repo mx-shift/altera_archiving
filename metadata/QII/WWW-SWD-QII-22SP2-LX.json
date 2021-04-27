@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-QII-22SP2-LX",
+  "swName": "Quartus II Software Version 2.2 Service Pack 2 for Linux",
+  "swUrl": "https://fpgadownload.intel.com/outgoing/release/quartusii_22_sp2_linux.tar",
+  "swExtUrl": "https://fpgadownload.intel.com/outgoing/release/quartusii_22_sp2_linux.tar",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

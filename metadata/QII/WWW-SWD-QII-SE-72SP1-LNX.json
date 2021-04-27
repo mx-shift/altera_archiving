@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-QII-SE-72SP1-LNX",
+  "swName": "Quartus II Software Subscription Edition Version 7.2 Service Pack 1 for Linux",
+  "swUrl": "https://fpgadownload.intel.com/outgoing/release/72sp1_quartus_linux.tar",
+  "swExtUrl": "https://fpgadownload.intel.com/outgoing/release/72sp1_quartus_linux.tar",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

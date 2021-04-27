@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-DSPB-110SP1-LNX",
+  "swName": "DSP Builder Version 11.0 Service Pack 1 for Linux",
+  "swUrl": "https://download.altera.com/akdlm/software/acds/11.0sp1/208/standalone/11.0sp1_dsp_builder_linux.sh",
+  "swExtUrl": "https://download.altera.com/akdlm/software/acds/11.0sp1/208/standalone/11.0sp1_dsp_builder_linux.sh",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

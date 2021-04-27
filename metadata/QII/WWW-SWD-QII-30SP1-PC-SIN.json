@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-QII-30SP1-PC-SIN",
+  "swName": "Quartus II Software Version 3.0 Service Pack 1 for PCs",
+  "swUrl": "https://fpgadownload.intel.com/outgoing/download/quartusii_30_sp1_single.exe",
+  "swExtUrl": "https://fpgadownload.intel.com/outgoing/download/quartusii_30_sp1_single.exe",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

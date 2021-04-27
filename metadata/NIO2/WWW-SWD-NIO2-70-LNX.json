@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-NIO2-70-LNX",
+  "swName": "Nios II Embedded Design Suite, Evaluation Edition Version 7.0 for Linux",
+  "swUrl": "https://fpgadownload.intel.com/outgoing/release/70_nios2eds_linux.tar",
+  "swExtUrl": "https://fpgadownload.intel.com/outgoing/release/70_nios2eds_linux.tar",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

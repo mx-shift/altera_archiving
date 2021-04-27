@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-NIO2-60SP1A-LNX",
+  "swName": "Nios II Embedded Processor Version 6.0 Service Pack 1 for UNIX",
+  "swUrl": "https://fpgadownload.intel.com/outgoing/download/service_packs/nios2/60sp1/niosii_60_sp1_linux.tar",
+  "swExtUrl": "https://fpgadownload.intel.com/outgoing/download/service_packs/nios2/60sp1/niosii_60_sp1_linux.tar",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

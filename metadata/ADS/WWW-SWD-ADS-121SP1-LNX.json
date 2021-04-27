@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-ADS-121SP1-LNX",
+  "swName": "Altera Design Suite v12.1 Service Pack 1 for Linux (Altera Installer)",
+  "swUrl": "https://download.altera.com/akdlm/software/acdsinst/12.1sp1/243/altera_installer/altera_installer.external.sh",
+  "swExtUrl": "https://download.altera.com/akdlm/software/acdsinst/12.1sp1/243/altera_installer/altera_installer.external.sh",
+  "swInstaller": true,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

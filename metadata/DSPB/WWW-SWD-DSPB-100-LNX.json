@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-DSPB-100-LNX",
+  "swName": "DSP Builder Version 10.0 for Linux",
+  "swUrl": "https://download.altera.com/akdlm/software/acds/10.0/219/standalone/10.0_dsp_builder_linux.sh",
+  "swExtUrl": "https://download.altera.com/akdlm/software/acds/10.0/219/standalone/10.0_dsp_builder_linux.sh",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

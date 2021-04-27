@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-QII-WE-121SP1-LNX",
+  "swName": "Quartus II Web Edition Software Version 12.1 Service Pack 1 for Linux",
+  "swUrl": "https://download.altera.com/akdlm/software/acdsinst/12.1sp1/243/standalone/12.1sp1_243_quartus_free_linux.tar.gz",
+  "swExtUrl": "https://download.altera.com/akdlm/software/acdsinst/12.1sp1/243/standalone/12.1sp1_243_quartus_free_linux.tar.gz",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

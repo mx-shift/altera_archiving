@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-QII-50SP1-LX",
+  "swName": "Quartus II Software Version 5.0 Service Pack 1 for Linux",
+  "swUrl": "https://fpgadownload.intel.com/outgoing/download/service_packs/quartus2/50sp1/quartusii_50_sp1_linux.tar",
+  "swExtUrl": "https://fpgadownload.intel.com/outgoing/download/service_packs/quartus2/50sp1/quartusii_50_sp1_linux.tar",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}

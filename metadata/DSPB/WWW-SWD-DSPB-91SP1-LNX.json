@@ -1,0 +1,9 @@
+{
+  "swcode": "WWW-SWD-DSPB-91SP1-LNX",
+  "swName": "DSP Builder Version 9.1 Service Pack 1 for Linux",
+  "swUrl": "https://download.altera.com/akdlm/software/quartus2/91sp1/91sp1_dsp_builder_linux.tar",
+  "swExtUrl": "https://download.altera.com/akdlm/software/quartus2/91sp1/91sp1_dsp_builder_linux.tar",
+  "swInstaller": false,
+  "isDownloadFromEsd": "true",
+  "downloadLinkJs": ""
+}
